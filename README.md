@@ -18,7 +18,7 @@ printed to the standard error, not the standard output.  Use the
 macros DEBUGF and DEBUGSTMT to generate debug output.  (See the
 example expr-smc, module auxlib).
 
-SYNOPSIS
+SYNOPSIS:
      oc [-ly] [-@ flag...]  [-D string] program.oc "
 
 Currently in the process of revising Project 4 files
