@@ -2,6 +2,10 @@ Compiler104a
 ============
 Compiler project for CMPS104a
 
+This compiler consists of a scanner, parser, symbol table, and output to an intermediate language (C).
+
+With the exception of the parser which is written in flex and Bison, the program is written in C++.
+
 From the program spec:
 
 "Write a main program for the language oc that you will be compiling
